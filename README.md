@@ -1,4 +1,4 @@
-# ML-projects-
+# Profit Prediction for 50 startups
 Project Overview:
 Dataset: The dataset contains information from 50 startups, including features such as:
 R&D Spend: Investment in research and development
